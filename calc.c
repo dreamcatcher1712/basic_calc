@@ -26,4 +26,5 @@ int main() {
     }
     printf("%.2f is the result of %c on %.2f and %.2f" , result, op, num1, num2);
     
-    return 0;}
+    return 0;
+}
